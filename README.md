@@ -1,7 +1,7 @@
 # C-project
 C programming course project (database with student exercise points).
 
-
+Program interaction in terminal.
 
 Instructions:
 'A studentnumber lastname firstname' adds a student to the student database.
